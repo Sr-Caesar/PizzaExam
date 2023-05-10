@@ -1,5 +1,5 @@
 ﻿using DecoratorPizzas;
 
-var pizza = FactoryPizza.GetPizza("Margherita;Normale");
+var pizza = FactoryPizza.GetPizza("Napoletana;Integrale;ProsciuttoCotto,Funghi");
+Console.WriteLine($"{pizza.GetDescription()}-{pizza.GetCost()}");
 
-Console.WriteLine($"{pizza.GetDescription}-{pizza.GetCost}");
