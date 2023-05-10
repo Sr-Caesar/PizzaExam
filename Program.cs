@@ -1,9 +1,8 @@
 ﻿using DecoratorPizzas;
-using Microsoft.VisualBasic;
+using DecoratorPizzas.Reader;
 
-IPizza pizza = FactoryPizza.GetPizza("Napoletana;Integrale;ProsciuttoCotto,Funghi");
-
+var a = new PizzaOrderReader("pizza1.csv");
+var mioOrdine = a.GetPizzaOrder();
+IPizza pizza = FactoryPizza.GetPizza(mioOrdine);
 Receipt myRecive = new(pizza);
 myRecive.Visualize();
-//Console.WriteLine($"{pizza.GetDescription()}-{pizza.GetCost()}");
-

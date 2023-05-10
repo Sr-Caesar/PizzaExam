@@ -16,3 +16,5 @@ C:\Users\Giuli\source\repos\PizzeriaExam\obj\Debug\net6.0\ref\PizzeriaExam.dll
 C:\Users\Giuli\source\repos\PizzeriaExam\bin\Debug\net6.0\DecoratorPizzas.dll
 C:\Users\Giuli\source\repos\PizzeriaExam\bin\Debug\net6.0\DecoratorPizzas.pdb
 C:\Users\Giuli\source\repos\PizzeriaExam\obj\Debug\net6.0\PizzeriaExam.csproj.CopyComplete
+C:\Users\Giuli\source\repos\PizzeriaExam\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Giuli\source\repos\PizzeriaExam\bin\Debug\net6.0\System.IO.Packaging.dll
