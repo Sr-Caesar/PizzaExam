@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using DecoratorPizzas;
+
+var pizza = FactoryPizza.GetPizza("Margherita;Normale");
+
+Console.WriteLine($"{pizza.GetDescription}-{pizza.GetCost}");

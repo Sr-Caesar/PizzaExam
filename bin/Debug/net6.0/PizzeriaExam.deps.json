@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzeriaExam/1.0.0": {
+        "dependencies": {
+          "DecoratorPizzas": "1.0.0"
+        },
+        "runtime": {
+          "PizzeriaExam.dll": {}
+        }
+      },
+      "DecoratorPizzas/1.0.0": {
+        "runtime": {
+          "DecoratorPizzas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzeriaExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorPizzas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
