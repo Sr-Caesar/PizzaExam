@@ -1,5 +1,9 @@
 ﻿using DecoratorPizzas;
+using Microsoft.VisualBasic;
 
-var pizza = FactoryPizza.GetPizza("Napoletana;Integrale;ProsciuttoCotto,Funghi");
-Console.WriteLine($"{pizza.GetDescription()}-{pizza.GetCost()}");
+IPizza pizza = FactoryPizza.GetPizza("Napoletana;Integrale;ProsciuttoCotto,Funghi");
+
+Receipt myRecive = new(pizza);
+myRecive.Visualize();
+//Console.WriteLine($"{pizza.GetDescription()}-{pizza.GetCost()}");
 
