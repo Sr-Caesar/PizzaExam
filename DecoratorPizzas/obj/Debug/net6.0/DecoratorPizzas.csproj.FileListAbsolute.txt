@@ -1,0 +1,12 @@
+C:\Users\Giuli\source\repos\DecoratorPizzas\bin\Debug\net6.0\DecoratorPizzas.deps.json
+C:\Users\Giuli\source\repos\DecoratorPizzas\bin\Debug\net6.0\DecoratorPizzas.dll
+C:\Users\Giuli\source\repos\DecoratorPizzas\bin\Debug\net6.0\DecoratorPizzas.pdb
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.csproj.AssemblyReference.cache
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.AssemblyInfoInputs.cache
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.AssemblyInfo.cs
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.csproj.CoreCompileInputs.cache
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.dll
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\refint\DecoratorPizzas.dll
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\DecoratorPizzas.pdb
+C:\Users\Giuli\source\repos\DecoratorPizzas\obj\Debug\net6.0\ref\DecoratorPizzas.dll

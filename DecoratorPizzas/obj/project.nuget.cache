@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k04LJ8PH4e5Ko7w/dkY+v9tKK3iX/wUmlmgE1UbzhOSLr5wf+vP4MabmOqmnAMlglQI6eL0AstzGghXPwOMoKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giuli\\source\\repos\\DecoratorPizzas\\DecoratorPizzas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giuli\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\Giuli\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
