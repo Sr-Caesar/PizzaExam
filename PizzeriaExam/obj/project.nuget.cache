@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WGSGdvJHcGqmDxMQ0JGEi23E01rXG6h2SoaTMq8Iz+qbLnt19B3BiZ/RWq56vQvYUEXwyL82KUSXqbhYxiBl0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Giuli\\source\\repos\\PizzeriaExam\\PizzeriaExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Giuli\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\Giuli\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
